@@ -1,0 +1,97 @@
+country,nuts_3,cases,datetime
+Scotland,Dumfries and Galloway,1,2020-03-16T14:00:00
+Scotland,Highland,2,2020-03-16T14:00:00
+Scotland,Ayrshire and Arran,7,2020-03-16T14:00:00
+Scotland,Borders,7,2020-03-16T14:00:00
+Scotland,Fife,7,2020-03-16T14:00:00
+Scotland,Forth Valley,10,2020-03-16T14:00:00
+Scotland,Grampian,12,2020-03-16T14:00:00
+Scotland,Shetland,15,2020-03-16T14:00:00
+Scotland,Tayside,17,2020-03-16T14:00:00
+Scotland,Lanarkshire,20,2020-03-16T14:00:00
+Scotland,Lothian,29,2020-03-16T14:00:00
+Scotland,Greater Glasgow and Clyde,44,2020-03-16T14:00:00
+Scotland,Dumfries and Galloway,1,2020-03-17T14:00:00
+Scotland,Highland,5,2020-03-17T14:00:00
+Scotland,Ayrshire and Arran,6,2020-03-17T14:00:00
+Scotland,Borders,7,2020-03-17T14:00:00
+Scotland,Fife,7,2020-03-17T14:00:00
+Scotland,Forth Valley,12,2020-03-17T14:00:00
+Scotland,Shetland,15,2020-03-17T14:00:00
+Scotland,Tayside,20,2020-03-17T14:00:00
+Scotland,Lanarkshire,21,2020-03-17T14:00:00
+Scotland,Grampian,22,2020-03-17T14:00:00
+Scotland,Lothian,30,2020-03-17T14:00:00
+Scotland,Greater Glasgow and Clyde,49,2020-03-17T14:00:00
+Scotland,Dumfries and Galloway,4,2020-03-18T14:00:00
+Scotland,Highland,5,2020-03-18T14:00:00
+Scotland,Borders,7,2020-03-18T14:00:00
+Scotland,Fife,8,2020-03-18T14:00:00
+Scotland,Ayrshire and Arran,9,2020-03-18T14:00:00
+Scotland,Forth Valley,15,2020-03-18T14:00:00
+Scotland,Shetland,16,2020-03-18T14:00:00
+Scotland,Grampian,24,2020-03-18T14:00:00
+Scotland,Tayside,24,2020-03-18T14:00:00
+Scotland,Lanarkshire,25,2020-03-18T14:00:00
+Scotland,Lothian,33,2020-03-18T14:00:00
+Scotland,Greater Glasgow and Clyde,57,2020-03-18T14:00:00
+Scotland,Dumfries and Galloway,6,2020-03-19T00:00:00
+Scotland,Highland,6,2020-03-19T00:00:00
+Scotland,Borders,8,2020-03-19T00:00:00
+Scotland,Fife,9,2020-03-19T00:00:00
+Scotland,Ayrshire and Arran,12,2020-03-19T00:00:00
+Scotland,Forth Valley,17,2020-03-19T00:00:00
+Scotland,Grampian,18,2020-03-19T00:00:00
+Scotland,Shetland,24,2020-03-19T00:00:00
+Scotland,Tayside,27,2020-03-19T00:00:00
+Scotland,Lanarkshire,33,2020-03-19T00:00:00
+Scotland,Lothian,35,2020-03-19T00:00:00
+Scotland,Greater Glasgow and Clyde,71,2020-03-19T00:00:00
+Scotland,Highland,6,2020-03-20T00:00:00
+Scotland,Borders,9,2020-03-20T00:00:00
+Scotland,Dumfries and Galloway,10,2020-03-20T00:00:00
+Scotland,Fife,12,2020-03-20T00:00:00
+Scotland,Ayrshire and Arran,16,2020-03-20T00:00:00
+Scotland,Grampian,19,2020-03-20T00:00:00
+Scotland,Forth Valley,23,2020-03-20T00:00:00
+Scotland,Shetland,24,2020-03-20T00:00:00
+Scotland,Tayside,31,2020-03-20T00:00:00
+Scotland,Lothian,40,2020-03-20T00:00:00
+Scotland,Lanarkshire,41,2020-03-20T00:00:00
+Scotland,Greater Glasgow and Clyde,91,2020-03-20T00:00:00
+Scotland,Highland,8,2020-03-21T00:00:00
+Scotland,Borders,10,2020-03-21T00:00:00
+Scotland,Dumfries and Galloway,13,2020-03-21T00:00:00
+Scotland,Fife,13,2020-03-21T00:00:00
+Scotland,Grampian,20,2020-03-21T00:00:00
+Scotland,Ayrshire and Arran,21,2020-03-21T00:00:00
+Scotland,Shetland,24,2020-03-21T00:00:00
+Scotland,Forth Valley,27,2020-03-21T00:00:00
+Scotland,Tayside,34,2020-03-21T00:00:00
+Scotland,Lothian,44,2020-03-21T00:00:00
+Scotland,Lanarkshire,49,2020-03-21T00:00:00
+Scotland,Greater Glasgow and Clyde,110,2020-03-21T00:00:00
+Scotland,Highland,8,2020-03-22T00:00:00
+Scotland,Borders,11,2020-03-22T00:00:00
+Scotland,Dumfries and Galloway,16,2020-03-22T00:00:00
+Scotland,Fife,16,2020-03-22T00:00:00
+Scotland,Grampian,23,2020-03-22T00:00:00
+Scotland,Shetland,24,2020-03-22T00:00:00
+Scotland,Ayrshire and Arran,25,2020-03-22T00:00:00
+Scotland,Forth Valley,30,2020-03-22T00:00:00
+Scotland,Tayside,38,2020-03-22T00:00:00
+Scotland,Lothian,46,2020-03-22T00:00:00
+Scotland,Lanarkshire,49,2020-03-22T00:00:00
+Scotland,Greater Glasgow and Clyde,130,2020-03-22T00:00:00
+Scotland,Borders,12,2020-03-23T00:00:00
+Scotland,Highland,12,2020-03-23T00:00:00
+Scotland,Dumfries and Galloway,18,2020-03-23T00:00:00
+Scotland,Fife,19,2020-03-23T00:00:00
+Scotland,Grampian,24,2020-03-23T00:00:00
+Scotland,Shetland,24,2020-03-23T00:00:00
+Scotland,Ayrshire and Arran,34,2020-03-23T00:00:00
+Scotland,Forth Valley,40,2020-03-23T00:00:00
+Scotland,Tayside,47,2020-03-23T00:00:00
+Scotland,Lanarkshire,58,2020-03-23T00:00:00
+Scotland,Lothian,59,2020-03-23T00:00:00
+Scotland,Greater Glasgow and Clyde,152,2020-03-23T00:00:00
